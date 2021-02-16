@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ATestWebApi\ATestWebApi.csproj" />
     <ProjectReference Include="..\TestApplication\TestApplication.csproj" />
   </ItemGroup>
 
