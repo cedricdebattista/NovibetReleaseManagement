@@ -12,4 +12,9 @@ namespace ATestWebApi
 
         public string Summary { get; set; }
     }
+
+    public class AditionalForecast:WeatherForecast
+    {
+        public string New { get; set; } = "NEW";
+    }
 }
