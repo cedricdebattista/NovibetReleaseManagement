@@ -1,3 +1,3 @@
 # MyTestApplication
 xsxdede
-xsxdede
+xsxdedeteamcity.build.branch
