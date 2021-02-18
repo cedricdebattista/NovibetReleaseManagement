@@ -8,5 +8,6 @@ namespace ATestWebApi
         public string New2 { get; set; } = "NEW2";
         public string Hello { get; set; } = "Hello";
         public DateTime ExpiryDate { get; set; }
+        public string YYY { get; set; }
     }
 }

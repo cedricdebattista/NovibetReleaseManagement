@@ -30,7 +30,8 @@ namespace ATestWebApi.Controllers
                 TemperatureC = rng.Next(-20, 55),
                 Summary = Summaries[rng.Next(Summaries.Length)],
                 Hello="Hello tyhing55",
-                ExpiryDate= DateTime.Now.AddDays(1)
+                ExpiryDate= DateTime.Now.AddDays(1),
+                YYY="Cedric"
             })
             .ToArray();
         }
