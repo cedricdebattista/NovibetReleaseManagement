@@ -4,8 +4,7 @@ namespace ATestWebApi
 {
     public class AditionalForecast:WeatherForecast
     {
-        public int ANewProp { get; set; }
-        public int IntegerTest { get; set; } = 11;
+        public string YetAnother { get; set; } = "yetAnother";
         public string New { get; set; } = "NEW";
         public string New2 { get; set; } = "NEW2";
         public string Hello { get; set; } = "Hello";
